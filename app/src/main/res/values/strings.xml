@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MadPractical</string>
+    <string name="Follow">Follow</string>
+    <string name="Message">Message</string>
+    <string name="Group1">Group 1</string>
+    <string name="Group2">Group 2</string>
+    <string name="Name">Name</string>
+    <string name="Description">Description</string>
+    <string name="Image">Image</string>
+    <string name="textview">textview</string>
+
+
+
+
+</resources>
